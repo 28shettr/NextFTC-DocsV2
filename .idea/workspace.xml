@@ -16,99 +16,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gca/actions/ActionGroups.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gca/actions/Actions.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gca/actions/ActionsFtc.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gca/actions/TrajectoryActionBuilder.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/config.mts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/sidebar/bindings.mts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/sidebar/control.mts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/sidebar/extensions.mts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/sidebar/guide.mts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/sidebar/nextftc.mts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/theme/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vitepress/theme/index.mts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bindings/buttons.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bindings/getting-started.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bindings/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bindings/variables.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code-of-conduct.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contributing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/dashboard.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/examples/flywheels.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/examples/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/examples/slides.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/getting-started.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/usage/control-systems.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/usage/feedback-elements.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/usage/feedforward-elements.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control/usage/kinetic-states.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/fateweaver/fatecomponent.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/fateweaver/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/fateweaver/publishers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/pedro/following-paths.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/pedro/getting-started.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/pedro/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/pedro/teleop.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/pedro/turning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/roadrunner/command-builder.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/roadrunner/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extensions/roadrunner/other-commands.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/further-reading.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/installation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/opmodes/autonomous.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/opmodes/teleop.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/subsystems/claw.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/subsystems/lift.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/subsystems/overview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/commands/conditionals.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/commands/custom-commands.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/commands/delays.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/commands/groups.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/commands/utilities.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/commands.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/components.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/opmodes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/subsystem-groups.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/subsystems.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/units.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/drivetrain-commands.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/drivetrain-commands/differential.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/drivetrain-commands/holonomic.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motor-and-servo-commands/runtostate.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motor-and-servo-commands/setpositions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motor-and-servo-commands/setpower.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motors-and-servos.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motors-and-servos/cr-servos.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motors-and-servos/feedback-servos.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motors-and-servos/motors.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motors-and-servos/servos.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nextftc/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/discord.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/favicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/images/NextFTC-Banner-Dark-Transparent-FullColor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/images/NextFTC-Banner-Light-Transparent-FullColor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/images/differential-drive.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/images/mecanum-drive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/images/x-drive.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/redirect.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/web-app-manifest-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/web-app-manifest-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tabs.md" beforeDir="false" />
+    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="update for v2">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,5 +194,9 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="astro.config.mjs" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update for v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for v2" />
   </component>
 </project>
