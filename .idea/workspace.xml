@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gca/actions/ActionGroups.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gca/actions/Actions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gca/actions/ActionsFtc.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gca/actions/TrajectoryActionBuilder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/config.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/sidebar/bindings.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/sidebar/control.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/sidebar/extensions.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/sidebar/guide.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/sidebar/nextftc.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/theme/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/theme/index.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bindings/buttons.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bindings/getting-started.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bindings/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bindings/variables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code-of-conduct.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contributing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/dashboard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/examples/flywheels.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/examples/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/examples/slides.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/getting-started.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/usage/control-systems.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/usage/feedback-elements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/usage/feedforward-elements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control/usage/kinetic-states.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/fateweaver/fatecomponent.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/fateweaver/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/fateweaver/publishers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/pedro/following-paths.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/pedro/getting-started.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/pedro/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/pedro/teleop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/pedro/turning.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/roadrunner/command-builder.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/roadrunner/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extensions/roadrunner/other-commands.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guide/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guide/further-reading.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guide/installation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guide/opmodes/autonomous.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guide/opmodes/teleop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guide/subsystems/claw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guide/subsystems/lift.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guide/subsystems/overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/commands/conditionals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/commands/custom-commands.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/commands/delays.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/commands/groups.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/commands/utilities.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/commands.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/components.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/opmodes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/subsystem-groups.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/subsystems.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/concepts/units.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/drivetrain-commands.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/drivetrain-commands/differential.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/drivetrain-commands/holonomic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motor-and-servo-commands/runtostate.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motor-and-servo-commands/setpositions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motor-and-servo-commands/setpower.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motors-and-servos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motors-and-servos/cr-servos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motors-and-servos/feedback-servos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motors-and-servos/motors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/hardware/motors-and-servos/servos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nextftc/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/discord.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/favicon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/images/NextFTC-Banner-Dark-Transparent-FullColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/images/NextFTC-Banner-Light-Transparent-FullColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/images/differential-drive.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/images/mecanum-drive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/images/x-drive.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/redirect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/web-app-manifest-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/web-app-manifest-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabs.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/zach/IdeaProjects/NextFTC-Docs-Beta" value="3GxlFXgFeTCUWzew3wybL9dC3Bo" />
+    </persistenceIdMap>
+  </component>
+  <component name="CurrentDebugProfile">
+    <option name="debugProfileId" value="956b62b3-5ed7-4785-8667-e65f3a7e3e10" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="30" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zachwaffle4"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NextFTC/NextFTC-Docs-Beta.git",
+    "accountId": "62a4ef25-0b91-4ce6-a5d0-68f8136f53c5"
+  }
+}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="62oSL7b1" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0000000061362226" />
+      <entry key="M2" value="1.0002507018818048" />
+      <entry key="M5" value="1.3067576188451127" />
+      <entry key="M10" value="5.220818346819038" />
+      <entry key="M15" value="11.353257460448216" />
+      <entry key="M30" value="26.636718523293755" />
+      <entry key="H1" value="41.46821512107497" />
+      <entry key="H2" value="51.88026394531118" />
+      <entry key="H4" value="58.06118098072133" />
+      <entry key="D1" value="63.78706167208798" />
+      <entry key="W1" value="64.82528722192174" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.2854375900868043E-152" />
+      <entry key="S10" value="1.511766380789967E-76" />
+      <entry key="S30" value="5.327149616122561E-26" />
+      <entry key="S60" value="2.3080618744138006E-13" />
+      <entry key="M2" value="4.804229255992892E-7" />
+      <entry key="M5" value="0.002969268625917237" />
+      <entry key="M10" value="0.05449099582423903" />
+      <entry key="M15" value="0.1437307956849702" />
+      <entry key="M30" value="0.37911844545599455" />
+      <entry key="H1" value="0.6157259499615021" />
+      <entry key="H2" value="0.7846820693513402" />
+      <entry key="H4" value="0.8858228205184949" />
+      <entry key="D1" value="0.9799963933924405" />
+      <entry key="W1" value="0.9971175355102803" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9592641193252643" />
+      <entry key="MS500" value="0.9917167307382933" />
+      <entry key="S2" value="0.9979227189990506" />
+      <entry key="S5" value="0.999168569213607" />
+      <entry key="S10" value="0.9995841981612189" />
+      <entry key="S30" value="0.9998613801725043" />
+      <entry key="S60" value="0.9999306938204383" />
+      <entry key="M2" value="1.0002165027217123" />
+      <entry key="M5" value="1.3096682546301501" />
+      <entry key="M10" value="5.274907478185881" />
+      <entry key="M15" value="11.496296923383516" />
+      <entry key="M30" value="27.014938433290393" />
+      <entry key="H1" value="42.083215753273365" />
+      <entry key="H2" value="52.66448512001448" />
+      <entry key="H4" value="58.9467439995178" />
+      <entry key="D1" value="64.76701021444858" />
+      <entry key="W1" value="65.82239780344139" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GxlFXgFeTCUWzew3wybL9dC3Bo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/zach/Applications/IntelliJ IDEA 2026.2.0.1.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <steps>
+        <latexmkCompile id="cded6be9-01c3-4e31-9f8d-9224c39aa4be" />
+        <pdfViewer id="59ca1570-b156-4308-8146-61641a3ea7af" />
+      </steps>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="" />
+      <created>1784921000945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784921000945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="astro.config.mjs" />
+  </component>
+</project>

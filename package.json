@@ -1,17 +1,20 @@
 {
-    "name": "nextftc-docs",
-    "version": "1.0.0",
-    "description": "NextFTC Documentation",
-    "scripts": {
-        "docs:build": "vitepress build",
-        "docs:preview": "vitepress preview",
-        "docs:dev": "vitepress dev"
-    },
-    "author": "NextFTC",
-    "license": "GPL-3.0-only",
-    "devDependencies": {
-        "vitepress": "^1.5.0",
-        "vitepress-plugin-llms": "^1.7.3",
-        "vitepress-plugin-tabs": "^0.5.0"
-    }
+  "name": "NextFTC-v2-Docs",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.41.4",
+    "astro": "^7.0.2",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.14"
+  }
 }

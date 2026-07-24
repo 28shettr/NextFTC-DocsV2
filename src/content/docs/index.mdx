@@ -1,0 +1,34 @@
+---
+title: NextFTC
+description: The modern FTC library for Kotlin and Java.
+template: splash
+hero:
+  tagline: A powerful, ergonomic library for FTC robots, built around commands, triggers, and zero boilerplate.
+  actions:
+    - text: Get Started
+      link: /guides/introduction/
+      icon: right-arrow
+    - text: View on GitHub
+      link: https://github.com/NextFTC/NextFTCSuite
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## What's in NextFTC v2?
+
+<CardGrid stagger>
+  <Card title="Command-Based Architecture" icon="puzzle">
+    Build robots around composable commands and reactive triggers. Bind gamepad inputs to commands with a single line of code.
+  </Card>
+  <Card title="Zero Registration Boilerplate" icon="rocket">
+    Annotate your OpModes with `@NextTeleop` or `@NextAutonomous` and inject your Robot instances at start time.
+  </Card>
+  <Card title="Type-Safe Hardware" icon="setting">
+    Wrap motors, servos, sensors, and vision hardware with lazy-initialized, caching wrappers that reduce unnecessary hardware writes.
+  </Card>
+  <Card title="Built-In Control Theory" icon="open-book">
+    PID, feedforward, motion profiling, Kalman filtering, and type-safe units: everything you need to close the loop on any mechanism.
+  </Card>
+</CardGrid>
