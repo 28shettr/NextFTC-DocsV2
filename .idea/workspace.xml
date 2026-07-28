@@ -16,8 +16,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="made plural">
-      <change afterPath="$PROJECT_DIR$/src/content/docs/hardware/sensors/pinpoint.mdx" afterDir="false" />
+    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="pinpoint.mdx added">
+      <change afterPath="$PROJECT_DIR$/src/content/docs/hardware/sensors/imu.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/hardware/sensors/pinpoint.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/docs/hardware/sensors/pinpoint.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785268623290</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="pinpoint.mdx added">
+      <option name="closed" value="true" />
+      <created>1785269495674</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1785269495674</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +290,7 @@
     <MESSAGE value="digital-sensor.mdx added" />
     <MESSAGE value="distance and color sensor added" />
     <MESSAGE value="made plural" />
-    <option name="LAST_COMMIT_MESSAGE" value="made plural" />
+    <MESSAGE value="pinpoint.mdx added" />
+    <option name="LAST_COMMIT_MESSAGE" value="pinpoint.mdx added" />
   </component>
 </project>
