@@ -19,8 +19,6 @@ There are three ways to construct a `NextServo`, depending on what you desire.
 val armServo = NextServo(RobotController.controlHub, 0) // By Lynx Module and port, recommended
 
 val armServo = NextServo("armServo") // Using your configuration name
-
-val armServo = NextServo({ hardwareMap.get(ServoImplEx::class.java, "armServo") }) // By custom initializer
 ```
 </TabItem>
 <TabItem label="Java">
