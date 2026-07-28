@@ -29,22 +29,30 @@ export default defineConfig({
                 ],
              },
              {
-                label: 'Reference',
+                label: 'Hardware',
                 items: [
                    {
-                      label: 'Hardware',
-                      items: [
-                         {
-                            label: 'Actuators',
-                            items: [{ autogenerate: { directory: 'reference/hardware/actuators' } }],
-                         },
-                         {
-                            label: 'Sensors',
-                            items: [{ autogenerate: { directory: 'reference/hardware/sensors' } }],
-                         },
-                      ],
+                      label: 'Actuators',
+                      items: [{ autogenerate: { directory: 'hardware/actuators' } }],
+                   },
+                   {
+                      label: 'Sensors',
+                      items: [{ autogenerate: { directory: 'hardware/sensors' } }],
+                   },
+                   {
+                      label: 'Miscellaneous',
+                      items: [{ autogenerate: { directory: 'hardware/miscellaneous' } }],
                    },
                 ],
+             },
+
+             {
+                 label: 'Robot',
+                 items: [{ autogenerate: { directory: 'robot' } }],
+             },
+             {
+                 label: 'Control',
+                 items: [{ autogenerate: { directory: 'control' } }],
              },
           ],
           plugins: [starlightThemeGalaxy()]
