@@ -16,9 +16,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="IMU added">
-      <change afterPath="$PROJECT_DIR$/src/content/docs/hardware/sensors/analog-inputs.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/docs/hardware/sensors/imu.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/docs/hardware/sensors/imu.mdx" afterDir="false" />
+    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="analog input added">
+      <change afterPath="$PROJECT_DIR$/src/content/docs/hardware/miscellaneous/husky-lens.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/docs/hardware/miscellaneous/limelights.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/hardware/miscellaneous/rgb-indicator.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/docs/hardware/miscellaneous/rgb-indicator.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785270198990</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="analog input added">
+      <option name="closed" value="true" />
+      <created>1785271007130</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1785271007130</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +309,7 @@
     <MESSAGE value="made plural" />
     <MESSAGE value="pinpoint.mdx added" />
     <MESSAGE value="IMU added" />
-    <option name="LAST_COMMIT_MESSAGE" value="IMU added" />
+    <MESSAGE value="analog input added" />
+    <option name="LAST_COMMIT_MESSAGE" value="analog input added" />
   </component>
 </project>
