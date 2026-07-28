@@ -16,8 +16,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="basic set up">
-      <change beforePath="$PROJECT_DIR$/src/content/docs/hardware/actuators/servos.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/docs/hardware/actuators/servos.mdx" afterDir="false" />
+    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="bno custom initializer">
+      <change afterPath="$PROJECT_DIR$/src/content/docs/hardware/sensors/digital-sensor.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785264749002</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bno custom initializer">
+      <option name="closed" value="true" />
+      <created>1785265529194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1785265529194</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +253,7 @@
     <MESSAGE value="update readme + pages deploy" />
     <MESSAGE value="All servo related things done" />
     <MESSAGE value="basic set up" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic set up" />
+    <MESSAGE value="bno custom initializer" />
+    <option name="LAST_COMMIT_MESSAGE" value="bno custom initializer" />
   </component>
 </project>
