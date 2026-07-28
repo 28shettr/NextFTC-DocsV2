@@ -16,10 +16,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="digital-sensor.mdx added">
-      <change afterPath="$PROJECT_DIR$/src/content/docs/hardware/sensors/color-sensor.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/docs/hardware/sensors/distance-sensor.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/docs/hardware/sensors/digital-sensor.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/docs/hardware/sensors/digital-sensor.mdx" afterDir="false" />
+    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="made plural">
+      <change afterPath="$PROJECT_DIR$/src/content/docs/hardware/sensors/pinpoint.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +247,23 @@
       <option name="project" value="LOCAL" />
       <updated>1785266557819</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="distance and color sensor added">
+      <option name="closed" value="true" />
+      <created>1785268436501</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1785268436501</updated>
+    </task>
+    <task id="LOCAL-00007" summary="made plural">
+      <option name="closed" value="true" />
+      <created>1785268623290</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1785268623290</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +279,8 @@
     <MESSAGE value="basic set up" />
     <MESSAGE value="bno custom initializer" />
     <MESSAGE value="digital-sensor.mdx added" />
-    <option name="LAST_COMMIT_MESSAGE" value="digital-sensor.mdx added" />
+    <MESSAGE value="distance and color sensor added" />
+    <MESSAGE value="made plural" />
+    <option name="LAST_COMMIT_MESSAGE" value="made plural" />
   </component>
 </project>
