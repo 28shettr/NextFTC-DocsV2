@@ -16,3 +16,8 @@
 .site-title img {
 	margin-top: 0.5rem;
 }
+
+.sidebar-pane .sidebar-group .sidebar-group summary {
+    font-size: 0.875rem;
+}
+
