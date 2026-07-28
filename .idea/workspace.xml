@@ -16,12 +16,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="update readme + pages deploy">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/docs/reference/cr-servos.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/docs/reference/feedback-servos.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/docs/reference/rgb-indicator.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/docs/reference/servos.mdx" afterDir="false" />
+    <list default="true" id="338264fc-4164-4668-99d1-cb1cc5ad32b9" name="Changes" comment="All servo related things done">
+      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/reference/cr-servos.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/docs/hardware/actuators/cr-servos.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/reference/example.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/docs/hardware/actuators/example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/reference/feedback-servos.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/docs/hardware/actuators/feedback-servos.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/reference/rgb-indicator.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/docs/hardware/actuators/rgb-indicator.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/reference/servos.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/docs/hardware/actuators/servos.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/custom.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +145,6 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -171,6 +172,13 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rohit\StudioProjects\NextFTC-DocsV2\src\content\docs\reference\hardware" />
+      <recent name="C:\Users\Rohit\StudioProjects\NextFTC-DocsV2\src\content\docs\reference" />
+      <recent name="C:\Users\Rohit\StudioProjects\NextFTC-DocsV2\src\content\docs\hardware" />
+      <recent name="C:\Users\Rohit\StudioProjects\NextFTC-DocsV2\src\content\docs" />
+      <recent name="C:\Users\Rohit\StudioProjects\NextFTC-DocsV2\src\content\docs\reference\actuators" />
     </key>
   </component>
   <component name="RunManager">
@@ -205,6 +213,15 @@
       <option name="presentableId" value="Default" />
       <updated>1784921000945</updated>
     </task>
+    <task id="LOCAL-00001" summary="All servo related things done">
+      <option name="closed" value="true" />
+      <created>1785212202971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785212202971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +233,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update for v2" />
     <MESSAGE value="update readme + pages deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="update readme + pages deploy" />
+    <MESSAGE value="All servo related things done" />
+    <option name="LAST_COMMIT_MESSAGE" value="All servo related things done" />
   </component>
 </project>

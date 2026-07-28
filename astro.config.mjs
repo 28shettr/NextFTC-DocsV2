@@ -5,35 +5,49 @@ import starlightThemeGalaxy from 'starlight-theme-galaxy';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://beta.nextftc.dev',
-	integrations: [
-		starlight({
-			title: 'NextFTC',
-			logo: {
-				light: './src/assets/nextftc-banner-light.png',
-				dark: './src/assets/nextftc-banner-dark.png',
-				replacesTitle: true,
-			},
-			favicon: '/favicon.svg',
-			customCss: ['./src/styles/custom.css'],
-			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/NextFTC/NextFTCSuite' },
-				{ icon: 'discord', label: 'Discord', href: 'https://nextftc.dev/discord' },
-			],
-			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
-				},
-			],
-			plugins: [starlightThemeGalaxy()]
-		}),
-	],
+    site: 'https://beta.nextftc.dev',
+    integrations: [
+       starlight({
+          title: 'NextFTC',
+          logo: {
+             light: './src/assets/nextftc-banner-light.png',
+             dark: './src/assets/nextftc-banner-dark.png',
+             replacesTitle: true,
+          },
+          favicon: '/favicon.svg',
+          customCss: ['./src/styles/custom.css'],
+          social: [
+             { icon: 'github', label: 'GitHub', href: 'https://github.com/NextFTC/NextFTCSuite' },
+             { icon: 'discord', label: 'Discord', href: 'https://nextftc.dev/discord' },
+          ],
+          sidebar: [
+             {
+                label: 'Guides',
+                items: [
+                   // Each item here is one entry in the navigation menu.
+                   { label: 'Example Guide', slug: 'guides/example' },
+                ],
+             },
+             {
+                label: 'Reference',
+                items: [
+                   {
+                      label: 'Hardware',
+                      items: [
+                         {
+                            label: 'Actuators',
+                            items: [{ autogenerate: { directory: 'reference/hardware/actuators' } }],
+                         },
+                         {
+                            label: 'Sensors',
+                            items: [{ autogenerate: { directory: 'reference/hardware/sensors' } }],
+                         },
+                      ],
+                   },
+                ],
+             },
+          ],
+          plugins: [starlightThemeGalaxy()]
+       }),
+    ],
 });
