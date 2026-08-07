@@ -29,7 +29,7 @@ val input = NextAnalogInput("armEncoder")
 
 ```java
 // By Lynx Module and channel, recommended
-NextAnalogInput input = new NextAnalogInput(RobotController.getControlHub(), 0);
+NextAnalogInput input = new NextAnalogInput(RobotController.controlHub(), 0);
 
 // Using your configuration name
 NextAnalogInput input = new NextAnalogInput("armEncoder");

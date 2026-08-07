@@ -29,7 +29,7 @@ val intakeServo = NextCRServo("intakeServo")
 
 ```java
 // By Lynx Module and port, recommended
-NextCRServo intakeServo = new NextCRServo(RobotController.getControlHub(), 0);
+NextCRServo intakeServo = new NextCRServo(RobotController.controlHub(), 0);
 
 // Using a configuration name
 NextCRServo intakeServo = new NextCRServo("intakeServo");

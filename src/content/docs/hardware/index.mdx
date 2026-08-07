@@ -23,18 +23,22 @@ or by its configuration name from the Driver Station.
 <TabItem label="Kotlin">
 
 ```kotlin
-val servo = NextServo(RobotController.controlHub, 0) // By Lynx Module and port, recommended
+// By Lynx Module and port, recommended
+val servo = NextServo(RobotController.controlHub, 0)
 
-val servo = NextServo("armServo") // Using your configuration name
+// Using your configuration name
+val servo = NextServo("armServo")
 ```
 
 </TabItem>
 <TabItem label="Java">
 
 ```java
-NextServo servo = new NextServo(RobotController.getControlHub(), 0); // By Lynx Module and port, recommended
+// By Lynx Module and port, recommended
+NextServo servo = new NextServo(RobotController.controlHub(), 0);
 
-NextServo servo = new NextServo("armServo"); // Using your configuration name
+// Using your configuration name
+NextServo servo = new NextServo("armServo");
 ```
 
 </TabItem>
@@ -50,12 +54,12 @@ so it's always safe to declare hardware as fields on your `Mechanism`.
 <CardGrid>
   <LinkCard
     title="Actuators"
-    href="/hardware/actuators/servos/"
-    description="Servos, continuous-rotation servos, and feedback servos."
+    href="/hardware/actuators/motors/"
+    description="Motors, servos, continuous-rotation servos, and feedback servos."
   />
   <LinkCard
     title="Sensors"
-    href="/hardware/sensors/imu/"
+    href="/hardware/sensors/color-sensor/"
     description="IMUs, Pinpoints, color/distance/digital sensors, and analog inputs."
   />
   <LinkCard

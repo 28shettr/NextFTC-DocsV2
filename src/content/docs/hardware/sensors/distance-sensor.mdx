@@ -27,7 +27,7 @@ val sensor = NextDistanceSensor("distanceSensor")
 
 ```java
 // By Lynx Module and I2C bus, recommended
-NextDistanceSensor sensor = new NextDistanceSensor(RobotController.getControlHub(), 0);
+NextDistanceSensor sensor = new NextDistanceSensor(RobotController.controlHub(), 0);
 
 // Using your configuration name
 NextDistanceSensor sensor = new NextDistanceSensor("distanceSensor");
