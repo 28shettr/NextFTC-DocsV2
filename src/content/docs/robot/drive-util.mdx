@@ -1,6 +1,6 @@
 ---
 title: Drive Util
-description: Grouping hardware and behavior into reusable subsystems with Mechanism.
+description: Setting up and driving a mecanum or tank drivetrain.
 sidebar:
   order: 5
 ---
@@ -45,9 +45,9 @@ public class Drivetrain implements Mechanism {
 </TabItem>
 </Tabs>
 
-Register it on your `NextRobot’s` `getMechanisms()` set, same as any other mechanism.
+Register it on your `NextRobot’s` `getMechanisms()` set, just like any other mechanism.
 
-## Create `startDrive` like this in your robot class
+## In your `Robot` class, add a `startDrive` method like this:
 
 <Tabs syncKey="language">
 <TabItem label="Kotlin">
@@ -142,7 +142,7 @@ DriveCommands.mecanumDriveFieldCentric(
 
 ## Scalars
 
-which takes your input and multiplies it for different speed modes or sensitivities.
+Multiplies your gamepad inputs by a scalar to support different speed modes or sensitivities.
 
 <Tabs syncKey="language">
 <TabItem label="Kotlin">
@@ -161,7 +161,7 @@ DriveCommands.setScalar(0.5); // makes it half speed
 </TabItem>
 </Tabs>
 
-You can use it like this, for example a slow-mode button.
+A common way to use `Scalar` is a slow mode:
 
 <Tabs syncKey="language">
 <TabItem label="Kotlin">
